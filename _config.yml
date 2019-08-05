@@ -12,7 +12,7 @@ github_repo: "https://github.com/rikkylai/rikkylai.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Go harder!"
-sidebar-avatar: /img/workharder.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/kuro.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
